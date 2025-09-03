@@ -1,8 +1,5 @@
 # Wrongler
 Bluetooth Dongle Wrangler for Linux
 
-If your dongle isn't working out of the box, run this script and it should do the trick!
-
-
-Caveat: use at your own risk!
-
+Reinitializes Bluetooth by removing config files and restarting the process.
+Useful when Bluetooth connectivity isn't working correctly.
